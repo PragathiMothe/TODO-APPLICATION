@@ -1,0 +1,30 @@
+body{
+    background-color: whitesmoke;
+}
+.contanier{
+    border: 10px solid rgb(149, 145, 145);
+    width: 400px;
+    height: 500px;
+    margin-left: 30%;
+    text-align: center;
+}
+.mycheck{
+    display: flex; 
+}
+.contanier .controls #add{
+    background-color: green;
+    color: white;
+    width: 200px;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+}
+.contanier .controls #remove{
+    background-color: rgb(234, 9, 9);
+    color: white;
+    width: 200px;
+    padding: 10px;
+    border-radius: 5px;
+    border: none        ;
+}
+
